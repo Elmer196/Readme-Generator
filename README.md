@@ -1,32 +1,33 @@
 # Good README Generator
 
+  ## License
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
   ## Table of Contents
-  - [Description](#projectDescription)
-  - [Installation](#projectInstallation)
-  - [Usage](#projectUsage)
-  - [Contributing](#projectContribution)
-  - [Tests](#projectTest)
-  - [License](#projectLicense)
-  - [Git Username](#gitUser)
-  - [Email](#projectEmail)
+  - [Description](#Description)
+  - [Installation](#Installation)
+  - [Usage](#Usage)
+  - [Contributing](#Contribution)
+  - [Tests](#Test)
+  - [License](#License)
+  - [Git Username](#GitHub Username)
+  - [Email](#Email Address)
 
   
   ## Description
-    This application streamlines the process of making a good README file through JavaScript and Node.js
+    This application streamlines the process of making a README file through JavaScript and Node.js
 
   ## Installation
-    There are none at the moment
+    There are currently none
 
   ## Usage
-    It allows the user to make a README file automatically through the application
+    Automates the process of making a read me file
 
-  ## Contributing
-    None currently
+  ## Contribution
+    Currently none
 
   ## Test
-    Will be found in the video instructions of how to use the application
+    Will be in the video of how to use the application
 
   ## GitHub Username
     Elmer196
