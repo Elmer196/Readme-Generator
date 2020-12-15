@@ -12,8 +12,8 @@ function generateMarkdown(data) {
   - [Contributing](#Contribution)
   - [Tests](#Test)
   - [License](#License)
-  - [Git Username](#GitHub Username)
-  - [Email](#Email Address)
+  - [GitHub Username](#GitHub)
+  - [Email Address](#Email)
 
   
   ## Description
@@ -31,10 +31,10 @@ function generateMarkdown(data) {
   ## Test
     ${data.projectTest}
 
-  ## GitHub Username
+  ## GitHub
     ${data.gitUser}
 
-  ## Email Address
+  ## Email
     ${data.projectEmail}
 
 
