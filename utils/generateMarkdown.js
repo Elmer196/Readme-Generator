@@ -4,6 +4,8 @@ function generateMarkdown(data) {
 
   ![badge](https://img.shields.io/badge/license-${data.projectLicense}-brightgreen)<br />
 
+  ## Table of Contents
+
 `;
 }
 
