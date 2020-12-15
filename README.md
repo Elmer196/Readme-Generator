@@ -10,29 +10,29 @@
   - [Contributing](#Contribution)
   - [Tests](#Test)
   - [License](#License)
-  - [Git Username](#GitHub Username)
-  - [Email](#Email Address)
+  - [GitHub Username](#GitHub)
+  - [Email Address](#Email)
 
   
   ## Description
-    This application streamlines the process of making a README file through JavaScript and Node.js
+    This application allows the user to streamline the process of making a README file through JavaScript and Node.js
 
   ## Installation
-    There are currently none
+    Currently none
 
   ## Usage
-    Automates the process of making a read me file
+    It is made to automate the creation of a README file
 
   ## Contribution
     Currently none
 
   ## Test
-    Will be in the video of how to use the application
+    Find testing instructions in the included video
 
-  ## GitHub Username
+  ## GitHub
     Elmer196
 
-  ## Email Address
+  ## Email
     elmerkobe88@gmail.com
 
 
