@@ -15,19 +15,19 @@
 
   
   ## Description
-    This application allows the user to streamline the process of making a README file through JavaScript and Node.js
+    Allows the user to streamline the process of making a README file through JavaScript and Node.js
 
   ## Installation
     Currently none
 
   ## Usage
-    It is made to automate the creation of a README file
+    Allows the automation of the creation of a README file
 
   ## Contribution
-    Currently none
+    Currently no guidlines
 
   ## Test
-    Find testing instructions in the included video
+    Will be in link
 
   ## GitHub
     Elmer196
