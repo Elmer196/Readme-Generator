@@ -2,6 +2,8 @@
 function generateMarkdown(data) {
   return `# ${data.projectTitle}
 
+  ![badge](https://img.shields.io/badge/license-${data.projectLicense}-brightgreen)<br />
+
 `;
 }
 
